@@ -1,0 +1,21 @@
+{
+  "name": "gaston",
+  "displayName": "Gaston",
+  "description": "Never ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OL-color-theme.json"
+      }
+    ]
+  }
+}
